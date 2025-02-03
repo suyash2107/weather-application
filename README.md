@@ -2,8 +2,6 @@
 
 A modern and responsive weather application built with React that provides real-time weather information for any city worldwide. Features a beautiful UI with glassmorphism effects, smooth animations, and intuitive interactions.
 
-![Weather App Screenshot](screenshot.jpg) <!-- Add your screenshot here -->
-
 ## ✨ Features
 
 - 🔍 Search weather by city name
