@@ -15,8 +15,9 @@ A modern and responsive weather application built with React that provides real-
 - 🚨 Error handling with user-friendly messages
 - ⚡ Instant search on Enter key press
 
-## 🚀 Installation
+## 🚀 Launch Application
 
-1. Clone the repository
-```bash
-git clone https://github.com/suyash2107/weather-application.git
+You can access the live version of the Weather Forecast App here:
+
+[Launch Weather Application](https://weatherapplicationbysuyash.netlify.app/)
+
